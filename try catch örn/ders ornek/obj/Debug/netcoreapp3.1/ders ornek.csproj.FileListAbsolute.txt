@@ -1,0 +1,16 @@
+C:\Users\ARDA KIRPAN\Desktop\ders ornek\ders ornek\bin\Debug\netcoreapp3.1\ders ornek.exe
+C:\Users\ARDA KIRPAN\Desktop\ders ornek\ders ornek\bin\Debug\netcoreapp3.1\ders ornek.deps.json
+C:\Users\ARDA KIRPAN\Desktop\ders ornek\ders ornek\bin\Debug\netcoreapp3.1\ders ornek.runtimeconfig.json
+C:\Users\ARDA KIRPAN\Desktop\ders ornek\ders ornek\bin\Debug\netcoreapp3.1\ders ornek.runtimeconfig.dev.json
+C:\Users\ARDA KIRPAN\Desktop\ders ornek\ders ornek\bin\Debug\netcoreapp3.1\ders ornek.dll
+C:\Users\ARDA KIRPAN\Desktop\ders ornek\ders ornek\bin\Debug\netcoreapp3.1\ders ornek.pdb
+C:\Users\ARDA KIRPAN\Desktop\ders ornek\ders ornek\obj\Debug\netcoreapp3.1\ders ornek.csproj.AssemblyReference.cache
+C:\Users\ARDA KIRPAN\Desktop\ders ornek\ders ornek\obj\Debug\netcoreapp3.1\ders_ornek.Form1.resources
+C:\Users\ARDA KIRPAN\Desktop\ders ornek\ders ornek\obj\Debug\netcoreapp3.1\ders ornek.csproj.GenerateResource.cache
+C:\Users\ARDA KIRPAN\Desktop\ders ornek\ders ornek\obj\Debug\netcoreapp3.1\ders ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARDA KIRPAN\Desktop\ders ornek\ders ornek\obj\Debug\netcoreapp3.1\ders ornek.AssemblyInfoInputs.cache
+C:\Users\ARDA KIRPAN\Desktop\ders ornek\ders ornek\obj\Debug\netcoreapp3.1\ders ornek.AssemblyInfo.cs
+C:\Users\ARDA KIRPAN\Desktop\ders ornek\ders ornek\obj\Debug\netcoreapp3.1\ders ornek.csproj.CoreCompileInputs.cache
+C:\Users\ARDA KIRPAN\Desktop\ders ornek\ders ornek\obj\Debug\netcoreapp3.1\ders ornek.dll
+C:\Users\ARDA KIRPAN\Desktop\ders ornek\ders ornek\obj\Debug\netcoreapp3.1\ders ornek.pdb
+C:\Users\ARDA KIRPAN\Desktop\ders ornek\ders ornek\obj\Debug\netcoreapp3.1\ders ornek.genruntimeconfig.cache
